@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PingLog
 
 > Micro-SaaS B2B — Public changelog & feedback widget for your products.
@@ -83,3 +84,6 @@ Pour activer les paiements :
 4. Conserver `SUPABASE_SERVICE_ROLE_KEY` côté serveur uniquement. Le checkout transmet l'ID Supabase de l'utilisateur dans `checkout[custom][user_id]`.
 
 Les statuts `active` donnent accès au plan Pro. Les abonnements `past_due` ou annulés reviennent aux limites Free.
+=======
+# pinglog
+>>>>>>> origin/main
